@@ -3,14 +3,14 @@
    overflow: auto;
 }
 #image01{
-   height: 65%;
-   width: 45%;
+   height: 85%;
+   width: 51%;
     float: left;
     padding: 0px 18px 4px 11px;
 }
 #image02{
-    height: 65%;
-    width: 45%;
+    height: 85%;
+    width: 51%;
      float: right;
      padding: 50px 04px 05px 25px;
  }
