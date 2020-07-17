@@ -2,6 +2,8 @@
 {
    overflow: auto;
 }
-#image01{
+#image{
+    width:45%;
+    height: 40%;
     float: left;
 }
